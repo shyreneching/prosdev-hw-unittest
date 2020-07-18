@@ -29,4 +29,4 @@ D | Did not Meet Expectation | 74.99 and below
 3. After running all the tests and everything passed, take a screenshot of the results and add it as a section in the README.
 
 ## Results
-![alt text](unit_test_screenshot.png)
+![screenshot](unit_test_screenshot.jpg)
